@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title> Logiciel STM  | SYSTEM GESTION DE STOCK</title>
+	<link rel="icon" type="image/png" href="images/icons8_Administrative_Tools_32px.png">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="scripts/qrious.min.js.map"> </script>
+	<link rel="stylesheet" href="mainStyle.css">
+	<script src='jsMaster.js'></script>
+	<script src='main.js'></script>
+</head>
+<body>
+
+	<div id='loading' > </div>
+
+	<nav id='nav-principale'>
+		<ul class='nav'>
+				<li class="active" onclick='changerForm(pageAccueil());menuClick(this);'><img src="images/Pie.png">Accueil</li>
+				<li onclick='pageIndex=1;changerForm( pageProduit() );menuClick(this);' ><img src="images/P.png">Produit</li>
+				<li onclick='pageIndex=1;changerForm( pageFournisseur() );menuClick(this);'><img src="images/T.png">Fournisseur</li>
+				<li onclick="changerForm( pageTransaction() );menuClick(this);"><img src="images/Data.png" alt="">
+				Transactions</li>
+				<li class='admin-only' onclick="changerForm(pageUser());menuClick(this);"><img src="images/Contacts.png">Users</li>
+				<li onclick="pageDeconexion();menuClick( document.querySelectorAll('#nav-principale .nav li')[0] )"><img src="images/Shutdown.png">Déconnexion</li>
+		</ul>
+	</nav>
+	
+	<div id='content'>
+	</div>
+
+	<div id='alertBox' class="hidden" >
+		<span class="close" onclick="document.querySelector('#alertBox').classList.toggle('hidden')"> X </span>
+		<div class="container"> Les données ont été bien enregistrer </div>
+	</div>
+
+</body>
+</html>
