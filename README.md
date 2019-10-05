@@ -6,13 +6,7 @@ Site web de gestion de stock
  
  ![alt text](https://imgur.com/hlbH1Ia)
  
- 
-  
- ![alt text]()
- 
- 
- 
- 
+
  
  
 La première page s’agit de la page de connexion,  chaque utilisateur se connecte au système par un login et un mot de passe fournit par l’administration, après la connexion, la page Accueil avec le Menu est affiché pour l’utilisateur. 
