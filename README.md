@@ -4,7 +4,7 @@ Site web de gestion de stock
 - Interface d’authentification : 
  
  
- ![alt text](https://imgur.com/hlbH1Ia)
+ ![alt text](https://i.imgur.com/hlbH1Ia.png)
  
 
  
