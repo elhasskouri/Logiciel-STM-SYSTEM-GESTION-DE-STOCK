@@ -15,13 +15,13 @@ La première page s’agit de la page de connexion,  chaque utilisateur se conne
 Menu est un ensemble des options présentées à l'utilisateur d’application pour aider à exécuter une fonction de programme. 
  
  
-  ![alt text](https://imgur.com/qNbVBjy)
+  ![alt text](https://i.imgur.com/qNbVBjy.png)
      
 
  
 - Interface d’Accueil : 
  
-  ![alt text](https://imgur.com/lmkJlnT)
+  ![alt text](https://i.imgur.com/lmkJlnT.png)
  
  
  
@@ -44,7 +44,7 @@ La page Accueil permet d’afficher les statistiques fait par l’utilisateur
      
 
 - Interface pour gérer les Produis : 
- ![alt text](https://imgur.com/bpt6EXc)
+ ![alt text](https://i.imgur.com/bpt6EXc.png)
  
 Cette l’interface permet  les fonctionnalités suivantes : 
 - Recherche des produis par Référence 
@@ -56,7 +56,7 @@ Cette l’interface permet  les fonctionnalités suivantes :
  
 - Voir toutes les informations pour le produit comme suivant :    
 
- ![alt text](https://imgur.com/D3EklNm)
+ ![alt text](https://i.imgur.com/D3EklNm.png)
  
 Tous produit possède un code QR qui permet d’avoir le référence de ce produit après le scanne du code  
 On peut imprimer  plusieurs codes. 
@@ -73,7 +73,7 @@ On peut imprimer  plusieurs codes.
      
 
 - Interface pour gérer les Fournisseurs : 
- ![alt text](https://imgur.com/os8ekLX)
+ ![alt text](https://i.imgur.com/os8ekLX.png)
  
 Cette l’interface permet  les fonctionnalités suivantes : 
 - Recherche des fournisseurs par Référence ou par le nom 
@@ -81,14 +81,14 @@ Cette l’interface permet  les fonctionnalités suivantes :
 - L’ajout d’un nouvel fournisseur et la suppression 
  
  Interface pour gérer Les Utilisateurs: 
-  ![alt text](https://imgur.com/z3T1xRf)
+  ![alt text](https://i.imgur.com/z3T1xRf.png)
  
 Cette l’interface permet  les fonctionnalités suivantes : 
       -  Modification des                    f  informations.
       - L’ajout d’un nouvel utilisateur et la suppression.   
      
  Interface pour Les Transactions: 
-  ![alt text](https://imgur.com/HcLscvl)
+  ![alt text](https://i.imgur.com/HcLscvl.png)
  
 Cette interface permet  d’afficher les différentes transactions réalisées par l’utilisateur de l’application. 
 L’utilisateur permet de trier les transactions par date, et mois et jour actuel, qui affichera uniquement les transactions faite dans cette période. 
